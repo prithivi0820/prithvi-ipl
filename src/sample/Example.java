@@ -20,7 +20,10 @@ public class Example {
 	}
 	}
 	
-	
+	private void udaya() {
+	System.out.println("sing");
+
+	}
 								
 								
 								
